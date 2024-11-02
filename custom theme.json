@@ -8,7 +8,7 @@
 		"dropdown.listBackground": "#00ffcc",
         "editor.background": "#052026",
         "editor.lineHighlightBackground": "#173035",
-        "editor.selectionHighlightBackground": "#173431",
+        "editor.selectionHighlightBackground": "#17343181",
         "editorGroupHeader.noTabsBackground": "#0a3b45",
         "editorGroupHeader.tabsBackground": "#0a3b45",
         "list.hoverBackground": "#3d5d61",
@@ -16,9 +16,9 @@
         "input.background": "#0a3b45",
         "notifications.background": "#0a3b45",
         "sideBar.background": "#0a3b45",
-        "statusBar.background": "#7ec0cd",
+        "statusBar.background": "#68b9c9",
         "statusBar.debuggingBackground": "#005254",
-        "tab.activeBackground": "#0a3b45",
+        "tab.activeBackground": "#047079",
 		"tab.inactiveBackground": "#02565d",
         "titleBar.activeBackground": "#052026",
 		"titleBar.inactiveBackground": "#0a3b45",
@@ -28,4 +28,5 @@
         "quickInput.background": "#0a3b45",
         "quickInputList.focusBackground": "#227061",
         "editorSuggestWidget.background": "#0a3b45",
+        "statusBar.noFolderBackground": "#48676c"
     }
